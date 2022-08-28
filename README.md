@@ -95,7 +95,7 @@ Above are high resolution renders of the environment generator zoomed out.  This
 
 ![](./false-color-texture-by-id.png)
 
-A view of the Three.js preview tool zoomed out.
+Above is a view of the Three.js preview tool zoomed out.
 
 ![](./compositor-output.png)
 
