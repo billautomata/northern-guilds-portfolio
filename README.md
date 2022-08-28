@@ -18,7 +18,7 @@ You can play it here: link.
 ![shadows zoomed out](./shadows%20engine.png)
 ![shadows close up](./close-up-shadows-engine.png)
 
-<video src="https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4" width="100%"/>
+<video src="https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4" width="100%" />
 
 ## programatically generate sprite sheets
 ![voxel models](./output-combined.png)
@@ -29,5 +29,5 @@ adskdk3k jdjdj
 
 <!-- <video src="./water-effect-example.mp4" width="720"/> -->
 
-<video src="https://user-images.githubusercontent.com/432483/187026682-13a5df97-d184-43fc-9c06-976977f42053.mp4" width="100%"/>
+<video src="https://user-images.githubusercontent.com/432483/187026682-13a5df97-d184-43fc-9c06-976977f42053.mp4" width="100%" />
 
