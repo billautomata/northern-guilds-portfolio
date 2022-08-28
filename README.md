@@ -68,4 +68,12 @@ Above is an example of how I was able to correctly preserve important details wh
 
 
 
+https://user-images.githubusercontent.com/432483/187067035-9f9ec39c-97e3-44eb-a9a2-2976eff321e2.mp4
+
+
+
+
+https://user-images.githubusercontent.com/432483/187067047-158a4c82-9bee-4715-bd2a-ed9e009a0910.mp4
+
+
 
