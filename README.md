@@ -12,7 +12,7 @@ I worked on:
 ## Game engine with custom render pipeline
 Using Pixi.js I created a multi-pass 2D rendering pipeline that has support for real-time lighting, shadows, animated procedural environment textures (grass, water), and animated procedural visual effects (fog).
 
-You can play it here: link.
+You can play an early tech demo here: link.
 
 ![game map](./demo-village.png)
 ![shadows zoomed out](./shadows%20engine.png)
@@ -20,17 +20,16 @@ You can play it here: link.
 
 [https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4](https://user-images.githubusercontent.com/432483/187064007-0a2aa47c-a0e9-4ef7-ac23-ff86c93614c0.mp4)
 
-![https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4)
+The video above shows the framebuffers for each stage of the render pipeline, culminating in the compositor.  Some layers are only active when there are emissive elements in the scene.
 
+[https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://user-images.githubusercontent.com/432483/187064306-6e1b333d-6de5-45a2-9d85-27c44a3e5ebd.mp4)
 
-
-https://user-images.githubusercontent.com/432483/187064306-6e1b333d-6de5-45a2-9d85-27c44a3e5ebd.mp4
-
-
+This video above demonstrates the environment displacement effect I developed.
 
 ## programatically generate sprite sheets
 ![voxel models](./output-combined.png)
 ![many characters wallpaper](./many-characters-wallpaper.jpg)
+![in game screenshot](./in-game-screenshot.png)
 
 ## procedurally generate the environment
 adskdk3k jdjdj
