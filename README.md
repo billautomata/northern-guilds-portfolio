@@ -9,15 +9,12 @@ I worked on:
 * generate 2D character sprite sheets from animated 3D voxel models
 * procedurally generate the environment
 
-
 ## Game engine with custom render pipeline
 ![game map](./demo-village.png)
 ![shadows zoomed out](./shadows%20engine.png)
 ![shadows close up](./close-up-shadows-engine.png)
 
 Using Pixi.js I created a multi-pass 2D rendering pipeline that has support for real-time lighting, shadows, animated procedural environment textures (grass, water), and animated procedural visual effects (fog).
-
-
 
 You can play it here: link.
 
@@ -28,9 +25,7 @@ You can play it here: link.
 ## procedurally generate the environment
 adskdk3k jdjdj
 
-
 <!-- <video src="./water-effect-example.mp4" width="720"/> -->
 
-
-
+<video src="https://user-images.githubusercontent.com/432483/187026682-13a5df97-d184-43fc-9c06-976977f42053.mp4" width="720"/>
 
