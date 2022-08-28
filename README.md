@@ -5,7 +5,7 @@ Northern Guilds was a browser-based pixel-art MMO, and I was the lead developer 
 
 You can play the early tech demo I created, here: https://billautomata.github.io/link/to/game.
 
-I worked on:
+At various stages I was responsible for:
 * Building a game engine with a custom render pipeline.
 * Generating 2D character sprite sheets from animated 3D voxel models.
 * Procedurally generating the environment from GIS data.
@@ -13,7 +13,7 @@ I worked on:
 ## Game engine with custom render pipeline
 Using Pixi.js I created a multi-pass 2D rendering pipeline that has support for real-time lighting, shadows, animated procedural environment textures (grass, water), and animated procedural visual effects (fog).
 
-You can play an early tech demo here: link.
+You can play an tech demo uses the game engine I created.
 
 ![game map](./demo-village.png)
 
@@ -23,19 +23,23 @@ Above is the game map for the tech demo.
 
 ![shadows close up](./close-up-shadows-engine.png)
 
-Above is an in-engine demonstration of the real-time lighting, shadows, visual effects, and post processing the engine performed.  This is all custom shader work done by me.
+Above are in-engine screenshots demonstrating of the real-time lighting, shadows, visual effects, and post processing the engine could perform.  This is all custom shader work done by me.
 
 [https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4](https://user-images.githubusercontent.com/432483/187064007-0a2aa47c-a0e9-4ef7-ac23-ff86c93614c0.mp4)
 
 The video above shows the framebuffers for each stage of the render pipeline, culminating in the compositor.  Some layers are only active when there are emissive elements in the scene.
 
-[https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://user-images.githubusercontent.com/432483/187064306-6e1b333d-6de5-45a2-9d85-27c44a3e5ebd.mp4)
-
-The video above demonstrates the environment displacement effect I developed.
-
 <video src="https://user-images.githubusercontent.com/432483/187026682-13a5df97-d184-43fc-9c06-976977f42053.mp4" width="100%"></video>
 
 The video above demonstrates the fullscreen shader effects used to blend grass and mud tiles, and animate the water.
+
+[https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://user-images.githubusercontent.com/432483/187064306-6e1b333d-6de5-45a2-9d85-27c44a3e5ebd.mp4)
+
+The video above demonstrates the environment displacement effect I developed.  The engine reads a heightmap and displaces the entities based on the value.  The background is a 2D image.
+
+![](./checker-stairs.gif)
+
+Above is a gif showing the relationship between the heightmap and the test environment.
 
 ## 2D character sprite sheets from animated 3D voxel models
 The art style required 8 directional 2D sprite sheets for the characters.  There were 10,000 configurations of character models and props at launch, so I developed a set of tools that rendered a large collection of voxel models to high quality sprite sheets that preserved the art style.
@@ -65,7 +69,7 @@ Above is a view of an intermediate character render with a weapon.  These are mu
 Above is an example of how I was able to correctly preserve important details while downscaling using a custom image processing algorithm.
 
 ## Procedurally generate the environment from GIS data.
-The world map was based on the Lofoten Islands in Norway.  We wanted to feature certain areas accurately so I built a series of tools to process the 1 meter laser scan resolution (32-bit tiff, 72GB) and create the game environment.
+The world map was based on the Lofoten Islands in Norway.  We wanted to feature certain areas accurately so I built a series of tools to process the 1 meter laser scan resolution data (32-bit tiff, 72GB) and create the pixel-art game environment.
 
 ![](./gis-image-processing-flowgraph.png)
 
@@ -101,10 +105,14 @@ Above is a view of the Three.js preview tool zoomed out.
 
 ![](./composite-sprites-and-3d.jpg)
 
-Above are test renders I made in order to match the art style from what came out of Blender.  A lot of color and compositing work was necessary to get the rendering engines to look like the sprites.
+Above are test renders I made in order to match the art style from what came out of Blender.  A lot of color and compositing work was necessary to get the rendering engines to look like the hand-made sprites.
 
 ![](./1to1-section-edges.png)
 
 ![](./2km.jpg)
 
 Above are output of the intermediate steps necessary to generate the environment.
+
+![](./with-viking.jpg)
+
+Thanks.
