@@ -64,14 +64,20 @@ Above is a view of an intermediate character render with a weapon.  These are mu
 
 Above is an example of how I was able to correctly preserve important details while downscaling using a custom image processing algorithm.
 
-## procedurally generate the environment
+## Procedurally generate the environment from GIS data.
+The world map was based on the Lofoten Islands in Norway.  We wanted to feature certain areas accurately so I built a series of tools to process the 1 meter laser scan resolution (32-bit tiff, 72GB) and create the game environment.
 
+![](./gis-image-processing-flowgraph.png)
 
+Above is pulled from a slide given during an internal presentation about the environment generation process.
 
 https://user-images.githubusercontent.com/432483/187067035-9f9ec39c-97e3-44eb-a9a2-2976eff321e2.mp4
 
+Above is a rendering of how the shader flowgraph is affected by elevation.
 
+![](./shader-flowgraph.png)
 
+Above is the shader flowgraph that determines the biome based on the GIS data.
 
 https://user-images.githubusercontent.com/432483/187067047-158a4c82-9bee-4715-bd2a-ed9e009a0910.mp4
 
