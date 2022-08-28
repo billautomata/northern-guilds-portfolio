@@ -20,7 +20,7 @@ You can play it here: link.
 
 [https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4](https://user-images.githubusercontent.com/432483/187064007-0a2aa47c-a0e9-4ef7-ac23-ff86c93614c0.mp4)
 
-[https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4)
+![https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4)
 
 ## programatically generate sprite sheets
 ![voxel models](./output-combined.png)
