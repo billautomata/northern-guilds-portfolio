@@ -81,5 +81,30 @@ Above is the shader flowgraph that determines the biome based on the GIS data.
 
 https://user-images.githubusercontent.com/432483/187067047-158a4c82-9bee-4715-bd2a-ed9e009a0910.mp4
 
+Above is a tool I built in Three.js to preview how the environment would look like when shaded.
 
+![](./three-js-preview-of-shading.png)
 
+Above is a screenshot of the true-color mode of hte Three.js environment preview tool.
+
+![](./elevation-only-displacement.png)
+
+![](./hq-biome.jpeg)
+
+Above are high resolution renders of the environment generator zoomed out.  This is created in Blender.
+
+![](./false-color-texture-by-id.png)
+
+A view of the Three.js preview tool zoomed out.
+
+![](./compositor-output.png)
+
+![](./composite-sprites-and-3d.jpg)
+
+Above are test renders I made in order to match the art style from what came out of Blender.  A lot of color and compositing work was necessary to get the rendering engines to look like the sprites.
+
+![](./1to1-section-edges.png)
+
+![](./2km.jpg)
+
+Above are output of the intermediate steps necessary to generate the environment.
