@@ -2,7 +2,9 @@
 
 ![title image](./ng-poster.png)
 
-Northern Guilds was a browser-based pixel-art MMO, and I was the lead developer on the project.  You can play the tech demo I created, here: https://billautomata.github.io/link/to/game.
+Northern Guilds was a browser-based pixel-art MMO, and I was the lead developer on the project.  
+
+You can play the early tech demo I created, here: https://billautomata.github.io/link/to/game.
 
 I worked on:
 * Building a game engine with a custom render pipeline.
@@ -24,19 +26,20 @@ The video above shows the framebuffers for each stage of the render pipeline, cu
 
 [https://billautomata.github.io/northern-guilds-portfolio/huge_stairs.mp4](https://user-images.githubusercontent.com/432483/187064306-6e1b333d-6de5-45a2-9d85-27c44a3e5ebd.mp4)
 
-This video above demonstrates the environment displacement effect I developed.
+The video above demonstrates the environment displacement effect I developed.
+
+<video src="https://user-images.githubusercontent.com/432483/187026682-13a5df97-d184-43fc-9c06-976977f42053.mp4" width="100%"></video>
+
+The video above demonstrates the fullscreen shader effects used to blend grass and mud tiles, and animate the water.
 
 ## programatically generate sprite sheets
 ![voxel models](./output-combined.png)
 ![many characters wallpaper](./many-characters-wallpaper.jpg)
 ![in game screenshot](./in-game-screenshot.png)
+[sprite-sheets-sheet.mov](https://user-images.githubusercontent.com/432483/187065665-715638ea-ad4c-4076-a5c7-d459f5a0ba4b.mov)
 
 ## procedurally generate the environment
-adskdk3k jdjdj
-
-<video src="https://user-images.githubusercontent.com/432483/187026682-13a5df97-d184-43fc-9c06-976977f42053.mp4" width="100%"></video>
 
 
 
-https://user-images.githubusercontent.com/432483/187065665-715638ea-ad4c-4076-a5c7-d459f5a0ba4b.mov
 
