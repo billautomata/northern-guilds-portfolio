@@ -1,5 +1,4 @@
 # northern-guilds-portfolio
-
 ![title image](./ng-poster.png)
 
 Northern Guilds was a browser-based pixel-art MMO, and I was the lead developer on the project.  
@@ -15,9 +14,10 @@ I worked on:
 Using Pixi.js I created a multi-pass 2D rendering pipeline that has support for real-time lighting, shadows, animated procedural environment textures (grass, water), and animated procedural visual effects (fog).
 
 You can play an early tech demo here: link.
-
 ![game map](./demo-village.png)
+
 ![shadows zoomed out](./shadows%20engine.png)
+
 ![shadows close up](./close-up-shadows-engine.png)
 
 [https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4](https://user-images.githubusercontent.com/432483/187064007-0a2aa47c-a0e9-4ef7-ac23-ff86c93614c0.mp4)
@@ -34,8 +34,11 @@ The video above demonstrates the fullscreen shader effects used to blend grass a
 
 ## programatically generate sprite sheets
 ![voxel models](./output-combined.png)
+
 ![many characters wallpaper](./many-characters-wallpaper.jpg)
+
 ![in game screenshot](./in-game-screenshot.png)
+
 [sprite-sheets-sheet.mov](https://user-images.githubusercontent.com/432483/187065665-715638ea-ad4c-4076-a5c7-d459f5a0ba4b.mov)
 
 ## procedurally generate the environment
