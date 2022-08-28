@@ -18,7 +18,9 @@ You can play it here: link.
 ![shadows zoomed out](./shadows%20engine.png)
 ![shadows close up](./close-up-shadows-engine.png)
 
-<video src="https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4" width="100%"></video>
+[https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4](https://user-images.githubusercontent.com/432483/187064007-0a2aa47c-a0e9-4ef7-ac23-ff86c93614c0.mp4)
+
+
 
 ## programatically generate sprite sheets
 ![voxel models](./output-combined.png)
