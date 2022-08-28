@@ -17,6 +17,7 @@ You can play it here: link.
 ![game map](./demo-village.png)
 ![shadows zoomed out](./shadows%20engine.png)
 ![shadows close up](./close-up-shadows-engine.png)
+
 <video src="https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4" width="100%"/>
 
 ## programatically generate sprite sheets
