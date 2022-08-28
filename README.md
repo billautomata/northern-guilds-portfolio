@@ -89,7 +89,7 @@ Above is a tool I built in Three.js to preview how the environment would look li
 
 ![](./three-js-preview-of-shading.png)
 
-Above is a screenshot of the true-color mode of hte Three.js environment preview tool.
+Above is a screenshot of the true-color mode of the Three.js environment preview tool.
 
 ![](./elevation-only-displacement.png)
 
