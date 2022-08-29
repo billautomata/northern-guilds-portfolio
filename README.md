@@ -23,7 +23,7 @@ Above is the game map for the tech demo.
 
 ![shadows close up](./close-up-shadows-engine.png)
 
-Above are in-engine screenshots demonstrating of the real-time lighting, shadows, visual effects, and post processing the engine could perform.  This is all custom shader work done by me.
+Above are in-engine screenshots demonstrating the real-time lighting, shadows, visual effects, and post processing the engine could perform.  This is all custom shader work done by me.
 
 [https://billautomata.github.io/northern-guilds-portfolio/debug-mode-engine-demo.mp4](https://user-images.githubusercontent.com/432483/187064007-0a2aa47c-a0e9-4ef7-ac23-ff86c93614c0.mp4)
 
